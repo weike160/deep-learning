@@ -13,4 +13,3 @@ with open(data_file,'w')as f:
     
 data = pd.read_csv(data_file)
 print (data)
-ptint (OK)
